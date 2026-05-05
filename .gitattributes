@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.glb binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tres binary
+*.import text eol=lf
+*.json text eol=lf
+*.md text eol=lf
